@@ -1,0 +1,1231 @@
+.buy-car-landing-page,
+.buy-car-landing-page * {
+  box-sizing: border-box;
+}
+.buy-car-landing-page {
+  background: #191919;
+  width: 1440px;
+  height: 3005px;
+  position: relative;
+  overflow: hidden;
+}
+.line-2 {
+  width: 1440px;
+  height: 693px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - -526.5px);
+}
+.footer {
+  background: #2a2b2e;
+  padding: 64px 100px 32px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 2570px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.profile-company {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 286px;
+  position: relative;
+}
+.buy-car {
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+}
+.buy-car-span {
+  color: #ffffff;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.buy-car-span2 {
+  color: #df2935;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+.buy-car-is-a-leading-online-platform-for-buying-and-selling-cars {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.container2 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.navigation {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.navigation2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container3 .home:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.container3 .collections:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.container3 .compare:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.container3 .blog:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.container3 .about-us:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.support-us2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.navigation2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.contact-us:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.support-center:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.security:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.partner2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.partner2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.our-partner:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.community:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.customers:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.competitive-pricing2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.we-offer-competitive-prices-and-transparent-pricing-so-that-you-can-be-sure-you-re-getting-a-great-deal:hover {
+  color: #f3f1f1;
+  transition: all 0.5s ease 0s;
+}
+.flexible-financing2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.we-offer-flexible-financing-options-to-help-you-purchase-your-dream-car-within-your-budget:hover {
+  color: #f8f4f5;
+  transition: all 0.5s ease 0s;
+}
+.expert-guidance2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.our-team-of-experts-is-always-available-to-guide-you-through-the-process-and-answer-any-questions-you-may-have:hover {
+  color: #f5f2f2;
+  transition: all 0.5s ease 0s;
+}
+.good-customer-service2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.we-prioritize-customer-satisfaction-and-strive-to-provide-exceptional-service-throughout-your-journey:hover {
+  color: #f8f4f5;
+  transition: all 0.5s ease 0s;
+}
+.experience-the-benefits-of-buying-your-next-car:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.quality-assurance2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.buy-car-features-a-diverse-range-of-cars-that-cater-to-all-budgets-and-preferences:hover {
+  color: #faf7f7;
+  transition: all 0.5s ease 0s;
+}
+.wide-selecstion2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.buy-car-features-a-diverse-range-of-cars-that-cater-to-all-budgets-and-preferences:hover {
+  color: #faf7f7;
+  transition: all 0.5s ease 0s;
+}
+
+.wide-selecstion2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.we-offer-only-the-best-vehicles-that-have-been-thoroughly-inspected-to-ensure-their-quality-and-performance:hover {
+  color: #f5f3f3;
+  transition: all 0.5s ease 0s;
+}
+.i-am-very-happy-with-the-car-i-bought-at-this-shop-the-seller-was-very-helpful-and-provided-clear-information-about-the-car-i-chose-the-buying-process-is-also-very-easy-and-smooth-i-will-recommend-this-shop-to-friends-and-family:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.businessman:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.cristian:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.happy-car-buyers-speak-out:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.get-in-touch-with-us:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.we-look-forward-to-hearing-from-you-and-assisting-you-with-all-of-your-car-buying-needs:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.logo:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.home3:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.collections3:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.compare3:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.blog3:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.about-us2:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.find-your-dream-car-today-explore-our-wide-selection-of-vehicles:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+}
+.terms-conditions:hover {
+  color: #ffffff;
+  transition: all 0.5s ease 0s;
+}
+.privacy-policy:hover {
+  color: #ffffff;
+  transition: all 0.5s ease 0s;
+}
+
+
+.home {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.collections {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.compare {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.blog {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.about-us {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.support-us {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.support-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.contact-us {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.support-center {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.security {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.partner {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.partner2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.our-partner {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.community {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.customers {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.container4 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.line-5 {
+  border-style: solid;
+  border-color: #9fa1a3;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 0px;
+  position: relative;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-50 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.terms-conditions {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+}
+
+.privacy-policy {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+}
+
+.frame-48 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.div {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+}
+.vinny-2024-all-right-reserved {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.facebook {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.instagram {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.twitter {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.facebook2 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.instagram2 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.twitter2 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.contact {
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 30px 40px 30px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 162px;
+  top: 2203px;
+}
+.container5 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.get-in-touch-with-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: relative;
+}
+.we-look-forward-to-hearing-from-you-and-assisting-you-with-all-of-your-car-buying-needs {
+  color: #ffffff;
+  text-align: center;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  width: 1036px;
+}
+.button {
+  background: #df2935;
+  border-radius: 8px;
+  padding: 12px 32px 12px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: relative;
+}
+.testimonial {
+  background: linear-gradient(
+      177.66deg,
+      rgba(25, 25, 25, 1) 0%,
+      rgba(12, 12, 12, 0) 53.125%,
+      rgba(25, 25, 25, 1) 100%
+    ),
+    linear-gradient(
+      96.96deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.37) 66.56585335731506%,
+      rgba(0, 0, 0, 0) 100%
+    );
+  padding: 120px 100px 120px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 1428px;
+}
+.main-testimoni {
+  background: rgba(67, 69, 78, 0.6);
+  border-radius: 16px;
+  padding: 24px 32px 24px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 498px;
+  height: 424px;
+  position: relative;
+  backdrop-filter: blur(5px);
+}
+.semicolon-icon {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.review {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.i-am-very-happy-with-the-car-i-bought-at-this-shop-the-seller-was-very-helpful-and-provided-clear-information-about-the-car-i-chose-the-buying-process-is-also-very-easy-and-smooth-i-will-recommend-this-shop-to-friends-and-family {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.frame-53 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+}
+.line-22 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+}
+.profile-reviewer {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.profile-picture {
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  object-fit: cover;
+}
+.name-occupation {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cristian {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: relative;
+}
+.businessman {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+}
+.container6 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-52 {
+  flex-shrink: 0;
+  width: 2px;
+  height: 109px;
+  position: relative;
+  overflow: hidden;
+}
+.heading {
+  padding: 0px 0px 0px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 586px;
+  height: 185px;
+  position: relative;
+}
+.happy-car-buyers-speak-out {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: relative;
+  width: 469px;
+}
+.container7 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1240px;
+  position: absolute;
+  left: 100px;
+  top: 909px;
+}
+.experience-the-benefits-of-buying-your-next-car {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: relative;
+  width: 604px;
+}
+.container8 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.quality-assurance {
+  background: rgba(67, 69, 78, 0.4);
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.quality-assurance2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.we-offer-only-the-best-vehicles-that-have-been-thoroughly-inspected-to-ensure-their-quality-and-performance {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.wide-selecstion {
+  background: #2a2b2e;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.wide-selecstion2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.buy-car-features-a-diverse-range-of-cars-that-cater-to-all-budgets-and-preferences {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.container9 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1240px;
+  position: absolute;
+  left: 100px;
+  top: 1138px;
+}
+.competitive-pricing {
+  background: #2a2b2e;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.competitive-pricing2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.we-offer-competitive-prices-and-transparent-pricing-so-that-you-can-be-sure-you-re-getting-a-great-deal {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.flexible-financing {
+  background: #2a2b2e;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.flexible-financing2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.we-offer-flexible-financing-options-to-help-you-purchase-your-dream-car-within-your-budget {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.expert-guidance {
+  background: #2a2b2e;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.expert-guidance2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.our-team-of-experts-is-always-available-to-guide-you-through-the-process-and-answer-any-questions-you-may-have {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.good-customer-service {
+  background: #2a2b2e;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.good-customer-service2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.we-prioritize-customer-satisfaction-and-strive-to-provide-exceptional-service-throughout-your-journey {
+  color: #9fa1a3;
+  text-align: left;
+  font-family: "PlusJakartaSans-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.hero {
+  background: linear-gradient(
+      190.56deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0) 50.29284954071045%,
+      rgba(0, 0, 0, 0.52) 64.76085186004639%,
+      rgba(0, 0, 0, 0.2) 100%
+    ),
+    linear-gradient(
+      98.24deg,
+      rgba(0, 0, 0, 0.7) 0%,
+      rgba(0, 0, 0, 0.05) 45.943692326545715%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+  padding: 160px 100px 160px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  height: 722px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+}
+.heading2 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1044px;
+  height: 328px;
+  position: relative;
+}
+.find-your-dream-car-today-explore-our-wide-selection-of-vehicles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 72px;
+  line-height: 94px;
+  font-weight: 700;
+  position: relative;
+  width: 996px;
+}
+.search-bar {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--gray-300, #d0d5dd);
+  border-width: 1px;
+  padding: 4px 4px 4px 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 365px;
+  position: relative;
+}
+.search-button {
+  background: #df2935;
+  border-radius: 30px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.search {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.navbar {
+  padding: 30px 100px 30px 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.logo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+}
+.container10 {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.navbar-item {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: relative;
+}
+.collections2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.collections3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.ellipse-1 {
+  background: #df2935;
+  border-radius: 50%;
+  opacity: 0;
+  flex-shrink: 0;
+  width: 4px;
+  height: 4px;
+  position: relative;
+}
+.compare2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.compare3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.blog2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.blog3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.contact-us3 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PlusJakartaSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.search2 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
