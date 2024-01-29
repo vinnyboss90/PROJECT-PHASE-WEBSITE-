@@ -5,6 +5,7 @@
   font-family: sans-serif;
 }
 
+
 .buy-car-landing-page,
 .buy-car-landing-page * {
   box-sizing: border-box;
@@ -1117,6 +1118,7 @@ transform: scale(1.1);
   flex-shrink: 0;
   width: 365px;
   position: relative;
+  padding: 10px 0;
 }
 .search-button {
   background: #df2935;
@@ -1129,6 +1131,17 @@ transform: scale(1.1);
   justify-content: center;
   flex-shrink: 0;
   position: relative;
+  outline: none;
+}
+.search-button:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+  transform: scale(1.1);
+}
+.search-bar:hover {
+  color: #df2935;
+  transition: all 0.5s ease 0s;
+  transform: scale(1.1);
 }
 .search {
   flex-shrink: 0;

@@ -22,3 +22,4 @@ btn.addEventListener('click', function (event) {
     fetch('https://httpbin.org/get')
     .then(data => {console.log(data)})
 });
+
